@@ -1,7 +1,6 @@
 # AFRO-ENTERTAINERS-ANALYTICS-REPORT-SQL-Power-BI
 
 ## Table of Content
-## Table Of Content
 
 [Project Overview](#ProjectOverview)
 
